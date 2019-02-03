@@ -1,0 +1,18 @@
+activemq-data/
+
+classes/
+/build
+buildSrc/build
+/spring-*/build
+/src/asciidoc/build
+target/
+
+# IDEA artifacts and output dirs
+*.iml
+*.ipr
+*.iws
+.idea
+out
+test-output
+atlassian-ide-plugin.xml
+.gradletasknamecache
